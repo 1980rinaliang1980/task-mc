@@ -1,0 +1,25 @@
+.card {
+  width: 550px;
+  height: 700px;
+  margin: 0 auto;
+  background-color: #C1272E;
+  font-family: Helvetica, Tahoma, Arial;
+  box-sizing: border-box;
+}
+
+.card .text h1 {
+  margin: 0;
+  padding: 20px 10px;
+  color: white;
+  font-size: 72px;
+  font-weight: bold;
+}
+
+.card .image {
+  /* margin-top: 150px; */
+  margin-top: 120px;
+}
+
+.card .image img {
+  width: 70%;
+}
